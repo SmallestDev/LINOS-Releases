@@ -1,6 +1,6 @@
 # LINOS
 
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/603c6f29-09c0-488f-846f-44aae689aa41" />
+<img width="1024" height="334" alt="image" src="https://github.com/user-attachments/assets/ed4560e0-0ed3-4bd2-9638-2f8a43e03c80" />
 
 
 Releases of **LINOS** (Life Is Not One Shot), an investing strategy game for Windows 10/11. Start with ₩10,000,000 of
