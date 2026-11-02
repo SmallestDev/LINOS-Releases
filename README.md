@@ -1,5 +1,8 @@
 # LINOS
 
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/603c6f29-09c0-488f-846f-44aae689aa41" />
+
+
 Releases of **LINOS** (Life Is Not One Shot), an investing strategy game for Windows 10/11. Start with ₩10,000,000 of
 play money, read the news and invest in 12 fictional companies across semiconductors, AI, energy, EVs, biotech and
 more. Prices move with market phases, interest rates, commodities, consumer spending, sector trends and company news,
